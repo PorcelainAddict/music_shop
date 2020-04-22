@@ -1,13 +1,17 @@
-package Accessories;
+package musical_shoppe;
 
+
+import Behaviours.IPlay;
 import Behaviours.ISell;
 
-public class SheetMusic implements ISell {
-    private String brand;
-    int cost;
-    int rrp;
+public class Kazoo extends MusicalThing implements IPlay, ISell {
 
-    public SheetMusic(String brand, int cost, int rrp){
+    private String brand;
+    private int cost;
+    private int rrp;
+
+    public Kazoo(String brand, String colour, int cost, int rrp){
+        super(colour, "mirliton");
         this.brand = brand;
         this.cost = cost;
         this.rrp = rrp;
@@ -23,6 +27,10 @@ public class SheetMusic implements ISell {
 
     public int getRrp() {
         return rrp;
+    }
+
+    public String play() {
+        return "ddddzzzzzoooooooooo";
     }
 
     public int calculateProfit(){

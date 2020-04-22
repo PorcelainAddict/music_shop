@@ -1,13 +1,31 @@
 package Accessories;
 
-public class Plectrums {
-    private double price;
+import Behaviours.ISell;
 
-    public Plectrums(){
-        this.price = 0.50;
+public class Plectrums implements ISell {
+    private String brand;
+    int cost;
+    int rrp;
+
+    public Plectrums(String brand, int cost, int rrp){
+        this.brand = brand;
+        this.cost = cost;
+        this.rrp = rrp;
     }
 
-    public double getPrice() {
-        return price;
+    public String getBrand() {
+        return brand;
+    }
+
+    public int getCost() {
+        return cost;
+    }
+
+    public int getRrp() {
+        return rrp;
+    }
+
+    public int calculateProfit(){
+        return this.rrp - this.cost;
     }
 }

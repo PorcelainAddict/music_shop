@@ -1,12 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3244e33-daf2-4828-b1df-321e42063aee" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d3244e33-daf2-4828-b1df-321e42063aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Drumsticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Drumsticks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Plectrums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Plectrums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/SheetMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/SheetMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Straps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Straps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Accessories/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Accessories/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/IPlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Behaviours/ISell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Bass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Bass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Cowbell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Cowbell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Drumset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Drumset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Glockenspiel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Glockenspiel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Kazoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Kazoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Piano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Piano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instruments/Violin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Violin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MusicalThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/MusicalThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shoppe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/musical_shoppe/Shoppe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CowbellTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CowbellTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DrumsetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DrumsetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GlockenspielTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GlockenspielTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GuitarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GuitarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KazooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KazooTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PianoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PianoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ShoppeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ShoppeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ViolinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ViolinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Accessories/Straps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Accessories/Straps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ISell.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,31 +72,48 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1Zl9zI67zjCNAYPXeCNE7tAtGaz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ShoppeTest">
+    <configuration name="DrumsetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_Music_shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DrumsetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PianoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_Music_shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PianoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShoppeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="weekend_Music_shop" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,9 +123,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_Music_shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriangleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ViolinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_Music_shop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ViolinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ShoppeTest" />
+        <item itemvalue="JUnit.DrumsetTest" />
+        <item itemvalue="JUnit.ViolinTest" />
+        <item itemvalue="JUnit.TriangleTest" />
+        <item itemvalue="JUnit.PianoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -67,7 +161,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585403074977</updated>
+      <workItem from="1587499413399" duration="7734000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1840" y="495" key="#com.intellij.ide.util.MemberChooser" timestamp="1587548281979">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state x="1840" y="495" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587548281979" />
+    <state width="1883" height="465" key="GridCell.Tab.0.bottom" timestamp="1587552767457">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state width="1883" height="465" key="GridCell.Tab.0.bottom/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587552767457" />
+    <state width="1883" height="465" key="GridCell.Tab.0.center" timestamp="1587552767456">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state width="1883" height="465" key="GridCell.Tab.0.center/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587552767456" />
+    <state width="1883" height="465" key="GridCell.Tab.0.left" timestamp="1587552767456">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state width="1883" height="465" key="GridCell.Tab.0.left/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587552767456" />
+    <state width="1883" height="465" key="GridCell.Tab.0.right" timestamp="1587552767457">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state width="1883" height="465" key="GridCell.Tab.0.right/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587552767457" />
+    <state x="1565" y="434" key="Maven.ArtifactSearchDialog" timestamp="1587548053744">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state x="1565" y="434" key="Maven.ArtifactSearchDialog/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587548053744" />
+    <state x="2581" y="282" width="748" height="961" key="dock-window-1" timestamp="1587545756390">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state x="2581" y="282" width="748" height="961" key="dock-window-1/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587545756390" />
+    <state x="2624" y="282" width="997" height="961" key="dock-window-2" timestamp="1587546088798">
+      <screen x="1440" y="282" width="1920" height="1057" />
+    </state>
+    <state x="2624" y="282" width="997" height="961" key="dock-window-2/0.23.1440.804/1440.282.1920.1057@1440.282.1920.1057" timestamp="1587546088798" />
   </component>
 </project>
